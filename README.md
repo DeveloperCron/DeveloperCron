@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Dev_Cron a Roblox developer ^_^
 
-<!--
-**DeveloperCron/DeveloperCron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Welcome to my profile. 
+- I’m Known as a system Engineer // UI designer. 
+- I know Lua and Python. Experienced in using blender. If you need me you can contact me through Twitter with the following format: Username // What you need. 
 
-Here are some ideas to get you started:
+How to reach me: 
+My twitter: https://twitter.com/RblxCron
+My Roblox account: https://www.roblox.com/users/1736230219/profile
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Thanks for reading. Have a nice day! 🌴
+
+
