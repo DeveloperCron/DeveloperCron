@@ -1,8 +1,7 @@
-## Hi there, I'm Dev_Cron a Roblox developer ^_^
+## Hi there, I'm Dev_Cron a Roblox developer.
 
 - Welcome to my profile. 
-- I’m Known as a system Engineer // UI designer. 
-- I know Lua and Python. Experienced in using blender. If you need me you can contact me through Twitter with the following format: Username // What you need. 
+- I know Lua and Python. I have some experience in using Blender.
 
 ### How to reach me: 
 - My twitter: https://twitter.com/RblxCron
