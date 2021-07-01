@@ -1,11 +1,12 @@
-## Hi there, I'm Dev_Cron a Roblox developer.
+🌴 | Hey there! I’m Lior. 
+3D modeler, Programmer
 
-- Welcome to my profile. 
-- I know Lua and Python. I have some experience in using Blender.
+Currently;
+Systems Engineer @ Pieza
 
 ### How to reach me: 
-- My twitter: https://twitter.com/RblxCron
-- My Roblox account: https://www.roblox.com/users/1736230219/profile
+- My twitter: https://twitter.com/Dev_CronRblx
+- My Roblox account: https://devforum.roblox.com/u/dev_cron/summary
 
 
 Thanks for reading. Have a nice day! 🌴
