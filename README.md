@@ -1,4 +1,4 @@
 # Hey there! 👋
 
-I'm Lior.
-Working on games and tools 
+I'm Lior shaposhnikov!
+I Love contributing to tools and develop my own games
