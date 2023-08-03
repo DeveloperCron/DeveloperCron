@@ -1,4 +1,4 @@
-## Hello 👋, I’m Lior. 
+Hello, I’m Lior. 
 I contribute to a variety of different stuff, including websites, tools and lastly Roblox games!
 Contributed to Nevermore, horse-calculator and much more interesting things.
 
